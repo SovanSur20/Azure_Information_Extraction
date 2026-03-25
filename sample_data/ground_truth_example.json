@@ -1,0 +1,44 @@
+{
+  "document_id": "sample_oem_specification",
+  "document_name": "sample_oem_specification.pdf",
+  "ground_truth": {
+    "part_number": "HYD-2500-AL-X",
+    "part_name": "Hydraulic Cylinder Assembly",
+    "manufacturer": "Precision Engineering Corp.",
+    "material": "Aluminum Alloy 6061-T6",
+    "dimensions": "450 mm length, 63.5 mm bore diameter, 38.1 mm rod diameter, 200 mm stroke",
+    "weight": "8.5 kg",
+    "tolerance": "Bore: ±0.025 mm, Rod: ±0.013 mm, Length: ±0.5 mm",
+    "surface_finish": "Ra 0.8 μm on sealing surfaces, Ra 3.2 μm on non-critical surfaces",
+    "coating": "Hard Anodized Type III, MIL-A-8625",
+    "certifications": [
+      "ISO 9001:2015",
+      "ISO 14001:2015",
+      "CE Marking",
+      "RoHS Compliant",
+      "REACH Compliant",
+      "ASME B30.1"
+    ],
+    "technical_specifications": {
+      "maximum_pressure": "210 bar (3,045 psi)",
+      "operating_pressure": "140-175 bar",
+      "temperature_range": "-20°C to +80°C",
+      "cycle_life": "2,000,000 cycles minimum",
+      "seal_type": "Polyurethane U-Cup seals",
+      "fluid_type": "ISO VG 46 Hydraulic Oil"
+    }
+  },
+  "evaluation_notes": {
+    "confidence_threshold": 0.85,
+    "critical_fields": [
+      "part_number",
+      "material",
+      "dimensions",
+      "certifications"
+    ],
+    "optional_fields": [
+      "maintenance_schedule",
+      "packaging_details"
+    ]
+  }
+}

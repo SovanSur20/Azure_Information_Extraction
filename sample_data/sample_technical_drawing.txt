@@ -1,0 +1,246 @@
+┌─────────────────────────────────────────────────────────────────────┐
+│                    TECHNICAL DRAWING SPECIFICATION                  │
+│                    PRECISION MACHINED SHAFT ASSEMBLY                │
+└─────────────────────────────────────────────────────────────────────┘
+
+DRAWING INFORMATION
+═══════════════════════════════════════════════════════════════════════
+Drawing Number:     DWG-SH-4500-A
+Revision:           Rev. D
+Part Name:          Drive Shaft Assembly
+Part Number:        SH-4500-SS316
+Sheet:              1 of 2
+Scale:              1:2
+Date:               February 20, 2024
+Drawn By:           M. Johnson
+Checked By:         R. Williams
+Approved By:        S. Chen, PE
+
+
+GENERAL DIMENSIONS
+═══════════════════════════════════════════════════════════════════════
+Overall Length:         500.00 mm ±0.50 mm
+                        (19.685 in ±0.020 in)
+
+Main Shaft Diameter:    50.00 mm +0.00/-0.025 mm
+                        (1.9685 in +0.000/-0.001 in)
+
+Reduced Section:        35.00 mm ±0.02 mm
+                        (1.378 in ±0.001 in)
+
+Thread Section:         M42 x 2.0 - 6g
+                        Length: 45 mm
+
+Keyway:                 14 mm width x 9 mm depth x 80 mm length
+                        Per DIN 6885 (Form A)
+
+
+SECTION A-A (Main Bearing Journal)
+═══════════════════════════════════════════════════════════════════════
+Diameter:               50.00 mm (h6 tolerance)
+                        +0.000/-0.016 mm
+
+Length:                 120.00 mm ±0.10 mm
+
+Surface Finish:         Ra 0.4 μm (16 μin)
+                        Circumferential lay pattern
+
+Roundness:              0.005 mm (0.0002 in) TIR
+
+Cylindricity:           0.008 mm (0.0003 in) total
+
+
+SECTION B-B (Coupling Interface)
+═══════════════════════════════════════════════════════════════════════
+Diameter:               60.00 mm +0.02/0.00 mm
+                        (2.362 in +0.001/0.000 in)
+
+Length:                 75.00 mm ±0.15 mm
+
+Spline:                 SAE B 16/32 DP
+                        16 teeth, 30° pressure angle
+                        Major Dia: 60.00 mm
+                        Minor Dia: 54.00 mm
+
+Surface Finish:         Ra 0.8 μm (32 μin)
+
+
+DETAIL C (Thread Specification)
+═══════════════════════════════════════════════════════════════════════
+Thread Type:            Metric ISO Coarse
+Designation:            M42 x 2.0 - 6g
+Thread Class:           6g (medium tolerance)
+Thread Length:          45.00 mm ±0.50 mm
+Thread Runout:          2 mm (relief groove)
+Minor Diameter:         39.077 mm
+Pitch Diameter:         40.701 mm
+Major Diameter:         42.000 mm
+
+
+MATERIAL SPECIFICATIONS
+═══════════════════════════════════════════════════════════════════════
+Material:               AISI 316 Stainless Steel
+                        (UNS S31600)
+
+Specification:          ASTM A276 / ASME SA-276
+
+Heat Treatment:         Solution Annealed
+                        1040°C - 1150°C, water quench
+
+Hardness:               85-95 HRB (Rockwell B)
+                        170-217 HB (Brinell)
+
+Tensile Strength:       515 MPa min (75 ksi min)
+Yield Strength:         205 MPa min (30 ksi min)
+Elongation:             40% min in 50 mm
+
+
+SURFACE TREATMENTS
+═══════════════════════════════════════════════════════════════════════
+Bearing Surfaces:       Precision ground, Ra 0.4 μm
+                        Hardened to 58-62 HRC (induction)
+                        Case depth: 2.5-3.5 mm
+
+Thread Section:         Cold rolled threads
+                        Class 2 finish
+
+Keyway:                 Broached, Ra 1.6 μm
+                        Sharp corners broken 0.2 mm
+
+Overall:                Passivated per ASTM A967
+                        Electropolished (optional)
+
+
+GEOMETRIC TOLERANCES (Per ASME Y14.5-2018)
+═══════════════════════════════════════════════════════════════════════
+Straightness:           0.05 mm per 100 mm length
+                        Datum: Axis A
+
+Concentricity:          0.02 mm TIR
+                        All diameters to Datum A
+
+Perpendicularity:       0.03 mm
+                        End faces to Datum A
+
+Parallelism:            0.02 mm
+                        Keyway to Datum A
+
+Runout (Total):         0.05 mm
+                        All cylindrical surfaces
+
+
+CRITICAL DIMENSIONS TABLE
+═══════════════════════════════════════════════════════════════════════
+Feature             Nominal      Tolerance       Surface Finish
+─────────────────────────────────────────────────────────────────────
+Main Journal        Ø50.00 mm    h6 (-0.016)     Ra 0.4 μm
+Coupling End        Ø60.00 mm    +0.02/0.00      Ra 0.8 μm
+Reduced Section     Ø35.00 mm    ±0.02           Ra 1.6 μm
+Thread M42x2        Ø42.00 mm    6g class        Ra 3.2 μm
+Overall Length      500.00 mm    ±0.50           N/A
+Keyway Width        14.00 mm     +0.00/-0.10     Ra 1.6 μm
+Keyway Depth        9.00 mm      +0.00/-0.05     Ra 1.6 μm
+
+
+INSPECTION REQUIREMENTS
+═══════════════════════════════════════════════════════════════════════
+100% Inspection:
+  ✓ All critical dimensions (CMM or comparator)
+  ✓ Surface finish (profilometer)
+  ✓ Hardness (Rockwell tester)
+  ✓ Thread gauging (GO/NO-GO)
+  ✓ Visual inspection (magnification 10x)
+
+Sample Inspection (1 per lot):
+  ✓ Material certification
+  ✓ Tensile testing
+  ✓ Metallurgical analysis
+  ✓ Magnetic particle inspection (MPI)
+  ✓ Ultrasonic testing (UT)
+
+
+MACHINING NOTES
+═══════════════════════════════════════════════════════════════════════
+1. All dimensions in millimeters unless otherwise specified
+2. Remove all burrs and sharp edges, max 0.2 mm chamfer
+3. Protect threads during machining and handling
+4. Maintain concentricity within 0.02 mm TIR
+5. Grind bearing surfaces after heat treatment
+6. Cold roll threads for improved fatigue resistance
+7. Mark part number on non-critical surface (laser etch)
+8. Clean and degrease before passivation
+
+
+ASSEMBLY NOTES
+═══════════════════════════════════════════════════════════════════════
+1. Install key before coupling assembly
+2. Apply anti-seize compound to threads
+3. Torque thread nut to 450 Nm ±25 Nm
+4. Check runout after assembly (max 0.08 mm)
+5. Balance to ISO 1940 Grade G2.5
+6. Protect bearing surfaces during storage
+
+
+QUALITY STANDARDS
+═══════════════════════════════════════════════════════════════════════
+Manufacturing:          ISO 9001:2015
+Dimensional:            ISO 2768-mK (medium)
+Geometric:              ASME Y14.5-2018
+Surface Finish:         ISO 4287 / ISO 1302
+Material:               ASTM A276 / ASME SA-276
+Thread:                 ISO 965-1 / ISO 965-2
+Inspection:             AS9102 First Article
+
+
+SPECIAL REQUIREMENTS
+═══════════════════════════════════════════════════════════════════════
+• Material certification required (3.1 per EN 10204)
+• Traceability: Heat number stamped on end face
+• Magnetic particle inspection after grinding
+• Ultrasonic inspection for internal defects
+• Dimensional inspection report required
+• Certificate of conformance required
+
+
+PACKAGING & SHIPPING
+═══════════════════════════════════════════════════════════════════════
+Protection:             VCI paper wrap
+                        Plastic end caps on threads
+                        Foam padding in box
+
+Preservation:           Light oil coating (removable)
+                        Desiccant pack included
+
+Marking:                Part number, heat number, date code
+                        Barcode label on package
+
+Storage:                Dry location, 5-35°C
+                        Shelf life: 24 months
+
+
+RELATED DOCUMENTS
+═══════════════════════════════════════════════════════════════════════
+Assembly Drawing:       ASM-4500-001 Rev. C
+Bill of Materials:      BOM-4500-001 Rev. D
+Process Specification:  PS-SHAFT-001 Rev. B
+Inspection Plan:        IP-4500-001 Rev. C
+Material Spec:          MS-SS316-001 Rev. A
+
+
+REVISION HISTORY
+═══════════════════════════════════════════════════════════════════════
+Rev A   2022-06-15   Initial release
+Rev B   2023-01-20   Updated thread specification
+Rev C   2023-08-10   Added surface finish requirements
+Rev D   2024-02-20   Modified keyway dimensions, added MPI
+
+
+┌─────────────────────────────────────────────────────────────────────┐
+│                         END OF DRAWING                              │
+│                    PROPRIETARY AND CONFIDENTIAL                     │
+└─────────────────────────────────────────────────────────────────────┘
+
+Document Control: DWG-SH-4500-A Rev. D
+Approved: Engineering Department
+Classification: Internal Use Only
+© 2024 Precision Engineering Corp. All Rights Reserved

@@ -1,0 +1,186 @@
+╔═══════════════════════════════════════════════════════════════════╗
+║                    PRECISION BEARING DATASHEET                    ║
+╚═══════════════════════════════════════════════════════════════════╝
+
+PRODUCT IDENTIFICATION
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Part Number:        BRG-6205-2RS-C3
+Description:        Deep Groove Ball Bearing
+Manufacturer:       Global Bearing Industries
+Series:             6200 Series
+Type:               Single Row, Double Sealed
+Revision:           Rev. 3.2
+Issue Date:         January 2024
+
+
+DIMENSIONAL DATA
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Inner Diameter (d):     25 mm (0.9843 in)
+Outer Diameter (D):     52 mm (2.0472 in)
+Width (B):              15 mm (0.5906 in)
+Fillet Radius (r):      1.0 mm (0.0394 in)
+Bore Tolerance:         ISO Class 6 (Normal)
+Outer Ring Tolerance:   ISO Class 6 (Normal)
+
+
+WEIGHT & MATERIALS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Weight:                 0.128 kg (0.282 lbs)
+Ring Material:          AISI 52100 Chrome Steel
+Ball Material:          AISI 52100 Chrome Steel
+Cage Material:          Pressed Steel
+Seal Material:          Nitrile Rubber (NBR)
+Hardness:               58-65 HRC (rings and balls)
+
+
+LOAD RATINGS (ISO 281)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Basic Dynamic Load (C):     14,800 N (3,327 lbf)
+Basic Static Load (C0):     7,800 N (1,753 lbf)
+Fatigue Load Limit (Pu):    335 N (75 lbf)
+Dynamic Load Factor:         1.0
+Static Load Factor:          1.0
+
+
+SPEED RATINGS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Reference Speed:        11,000 rpm (grease lubrication)
+Limiting Speed:         13,000 rpm (oil lubrication)
+Maximum Speed:          15,000 rpm (special conditions)
+Speed Factor (n·dm):    330,000 mm/min
+
+
+INTERNAL CLEARANCE
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Clearance Class:        C3 (Greater than Normal)
+Radial Clearance:       18-33 μm
+Axial Clearance:        45-75 μm
+Application:            High temperature or interference fits
+
+
+TOLERANCES (ISO 492 Class 6)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Bore Diameter:          0 to -9 μm
+Outside Diameter:       0 to -11 μm
+Width Variation:        0 to -120 μm
+Radial Runout:          Max 10 μm
+Axial Runout:           Max 15 μm
+
+
+OPERATING CONDITIONS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Temperature Range:      -30°C to +110°C (-22°F to +230°F)
+Max Seal Temperature:   +110°C (+230°F) continuous
+                        +130°C (+266°F) intermittent
+Lubrication:            Pre-greased with lithium soap grease
+Relubrication:          Not required (sealed for life)
+Mounting:               Press fit or clearance fit
+
+
+SEAL SPECIFICATIONS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Seal Type:              2RS (Contact Seals, Both Sides)
+Seal Material:          Nitrile Rubber (NBR)
+Seal Lip Contact:       Low friction design
+Protection:             IP67 (dust and water resistant)
+Grease Fill:            30% of free volume
+Grease Type:            Lithium complex, NLGI Grade 2
+
+
+PERFORMANCE DATA
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+L10 Life (at C/P=3):    50,000 hours
+L50 Life:               250,000 hours
+Noise Level:            Low (Z2 quality)
+Vibration Level:        V2 (ISO 15242)
+Friction Torque:        0.8-1.2 Nm (starting)
+                        0.4-0.6 Nm (running)
+
+
+QUALITY STANDARDS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Manufacturing:          ISO 9001:2015 Certified
+Precision Class:        ISO 492 Class 6 (ABEC-3)
+Noise Standard:         ISO 15242-1
+Vibration Standard:     ISO 15242-2
+Material Standard:      ASTM A295 (52100 Steel)
+
+
+APPLICATIONS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+✓ Electric Motors
+✓ Gearboxes
+✓ Pumps and Compressors
+✓ Agricultural Equipment
+✓ Conveyor Systems
+✓ Automotive Components
+✓ Industrial Machinery
+
+
+MOUNTING INSTRUCTIONS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Shaft Fit:              h6 (light interference)
+Housing Fit:            H7 (clearance)
+Mounting Method:        Cold press or thermal expansion
+Heating Temp:           Max 120°C (248°F)
+Cooling Time:           5-10 minutes before operation
+Alignment:              Max 0.001 inch per inch of shaft
+
+
+STORAGE & HANDLING
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Storage Temperature:    5°C to 40°C (41°F to 104°F)
+Humidity:               < 60% RH
+Shelf Life:             5 years (sealed package)
+Packaging:              Individual plastic tube
+                        Carton box (100 pieces)
+Handling:               Avoid impact and contamination
+                        Use clean gloves
+
+
+TECHNICAL NOTES
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+• C3 clearance recommended for high temperature applications
+• Sealed bearings cannot be relubricated
+• Do not wash sealed bearings
+• Store in original packaging until installation
+• Inspect for damage before mounting
+• Follow proper mounting procedures to avoid damage
+
+
+EQUIVALENT PART NUMBERS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SKF:                    6205-2RS1/C3
+NSK:                    6205DDU-C3
+NTN:                    6205LLU/C3
+FAG:                    6205.2RSR.C3
+Timken:                 6205-2RS-C3
+
+
+ORDERING INFORMATION
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Standard Pack:          100 pieces per carton
+Minimum Order:          10 pieces
+Lead Time:              2-4 weeks (standard)
+                        1 week (express, MOQ 100)
+Custom Options:         Special clearance, cage material
+                        High temperature grease
+
+
+CONTACT INFORMATION
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Technical Support:      tech@globalbearing.com
+Sales Department:       sales@globalbearing.com
+Customer Service:       +1 (800) 555-BEAR
+Website:                www.globalbearing.com
+Address:                123 Industrial Parkway
+                        Manufacturing City, ST 12345
+
+
+╔═══════════════════════════════════════════════════════════════════╗
+║                    END OF TECHNICAL DATASHEET                     ║
+╚═══════════════════════════════════════════════════════════════════╝
+
+Document Number: DS-6205-2RS-C3-v3.2
+Approved: Engineering Department
+Date: January 15, 2024

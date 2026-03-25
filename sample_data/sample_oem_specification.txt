@@ -1,0 +1,146 @@
+═══════════════════════════════════════════════════════════════════
+                    OEM PART SPECIFICATION SHEET
+═══════════════════════════════════════════════════════════════════
+
+PART IDENTIFICATION
+───────────────────────────────────────────────────────────────────
+Part Number:        HYD-2500-AL-X
+Part Name:          Hydraulic Cylinder Assembly
+Manufacturer:       Precision Engineering Corp.
+Revision:           Rev. C
+Date:               March 15, 2024
+Status:             Active - Production
+
+
+MATERIAL SPECIFICATIONS
+───────────────────────────────────────────────────────────────────
+Primary Material:   Aluminum Alloy 6061-T6
+Secondary Material: Stainless Steel 316L (seals and fasteners)
+Coating:            Hard Anodized Type III, MIL-A-8625
+Surface Finish:     Ra 0.8 μm (32 μin) on sealing surfaces
+                    Ra 3.2 μm (125 μin) on non-critical surfaces
+
+
+PHYSICAL DIMENSIONS
+───────────────────────────────────────────────────────────────────
+Overall Length:     450 mm (17.72 inches)
+Bore Diameter:      63.5 mm (2.5 inches)
+Rod Diameter:       38.1 mm (1.5 inches)
+Stroke Length:      200 mm (7.87 inches)
+Port Size:          1/2" NPT
+Weight:             8.5 kg (18.7 lbs)
+
+
+DIMENSIONAL TOLERANCES
+───────────────────────────────────────────────────────────────────
+Bore Diameter:      ±0.025 mm (±0.001 inch)
+Rod Diameter:       ±0.013 mm (±0.0005 inch)
+Overall Length:     ±0.5 mm (±0.020 inch)
+Concentricity:      0.05 mm (0.002 inch) TIR
+Parallelism:        0.025 mm per 100 mm length
+
+
+PERFORMANCE SPECIFICATIONS
+───────────────────────────────────────────────────────────────────
+Maximum Pressure:   210 bar (3,045 psi)
+Operating Pressure: 140-175 bar (2,030-2,538 psi)
+Temperature Range:  -20°C to +80°C (-4°F to +176°F)
+Cycle Life:         2,000,000 cycles minimum
+Leakage Rate:       < 0.1 ml/min at maximum pressure
+Response Time:      < 150 ms (full stroke)
+
+
+TECHNICAL SPECIFICATIONS
+───────────────────────────────────────────────────────────────────
+Seal Type:          Polyurethane U-Cup seals
+Seal Hardness:      90 Shore A
+Bearing Type:       Bronze-filled PTFE
+Fluid Type:         ISO VG 46 Hydraulic Oil
+Filtration:         10 micron absolute minimum
+Thread Type:        Metric M8 x 1.25 (mounting)
+
+
+CERTIFICATIONS & STANDARDS
+───────────────────────────────────────────────────────────────────
+✓ ISO 9001:2015 Quality Management
+✓ ISO 14001:2015 Environmental Management
+✓ CE Marking (Machinery Directive 2006/42/EC)
+✓ RoHS Compliant (Directive 2011/65/EU)
+✓ REACH Compliant (Regulation EC 1907/2006)
+✓ ASME B30.1 Safety Standards
+
+
+TESTING & INSPECTION
+───────────────────────────────────────────────────────────────────
+Pressure Test:      1.5x maximum working pressure (315 bar)
+Leak Test:          Helium leak detection, < 1×10⁻⁶ mbar·l/s
+Dimensional:        CMM inspection per AS9102 First Article
+Surface Finish:     Profilometer measurement per ISO 4287
+Material:           Spectroscopic analysis per ASTM E415
+Hardness:           Rockwell B scale, 60-70 HRB
+
+
+ASSEMBLY REQUIREMENTS
+───────────────────────────────────────────────────────────────────
+Torque Values:      End cap: 120 Nm ±5 Nm
+                    Port fittings: 45 Nm ±3 Nm
+                    Mounting bolts: 25 Nm ±2 Nm
+Thread Sealant:     Loctite 567 or equivalent
+Cleanliness:        ISO 4406 18/16/13 maximum
+Assembly Lube:      Hydraulic oil or compatible grease
+
+
+PACKAGING & STORAGE
+───────────────────────────────────────────────────────────────────
+Packaging:          Individual polyethylene bag with desiccant
+                    Corrugated cardboard box with foam inserts
+Preservation:       Ports capped, internal surfaces oiled
+Storage Temp:       5°C to 35°C (41°F to 95°F)
+Humidity:           < 70% RH, non-condensing
+Shelf Life:         24 months from manufacture date
+
+
+MAINTENANCE SCHEDULE
+───────────────────────────────────────────────────────────────────
+Daily:              Visual inspection for leaks
+Weekly:             Check mounting bolts torque
+Monthly:            Inspect seals and rod surface
+Quarterly:          Oil analysis and filtration check
+Annually:           Complete disassembly and inspection
+                    Replace all seals and O-rings
+
+
+SPECIAL NOTES
+───────────────────────────────────────────────────────────────────
+• Rod must be fully retracted during storage
+• Do not exceed maximum pressure under any circumstances
+• Use only approved hydraulic fluids
+• Seal replacement requires clean room environment
+• Contact manufacturer for repair procedures
+• Keep detailed maintenance logs for warranty
+
+
+ORDERING INFORMATION
+───────────────────────────────────────────────────────────────────
+Standard Lead Time: 6-8 weeks
+Minimum Order:      1 unit
+Spare Parts Kit:    SPK-HYD-2500 (includes seals, O-rings, bearings)
+Service Manual:     SM-HYD-2500-001 Rev. B
+
+
+TECHNICAL SUPPORT
+───────────────────────────────────────────────────────────────────
+Engineering:        engineering@precisioneng.com
+Sales:              sales@precisioneng.com
+Service:            service@precisioneng.com
+Phone:              +1 (555) 123-4567
+Website:            www.precisioneng.com
+
+
+═══════════════════════════════════════════════════════════════════
+                        END OF SPECIFICATION
+═══════════════════════════════════════════════════════════════════
+
+Document Control: DOC-HYD-2500-001
+Approved By: John Smith, Chief Engineer
+Date: March 15, 2024

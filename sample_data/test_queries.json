@@ -1,0 +1,122 @@
+{
+  "test_queries": [
+    {
+      "query_id": "Q001",
+      "question": "What is the part number?",
+      "expected_field": "part_number",
+      "difficulty": "easy"
+    },
+    {
+      "query_id": "Q002",
+      "question": "What material is the part made from?",
+      "expected_field": "material",
+      "difficulty": "easy"
+    },
+    {
+      "query_id": "Q003",
+      "question": "What are the dimensions of this component?",
+      "expected_field": "dimensions",
+      "difficulty": "medium"
+    },
+    {
+      "query_id": "Q004",
+      "question": "What is the weight specification?",
+      "expected_field": "weight",
+      "difficulty": "easy"
+    },
+    {
+      "query_id": "Q005",
+      "question": "What are the tolerance requirements?",
+      "expected_field": "tolerance",
+      "difficulty": "medium"
+    },
+    {
+      "query_id": "Q006",
+      "question": "What surface finish is specified?",
+      "expected_field": "surface_finish",
+      "difficulty": "medium"
+    },
+    {
+      "query_id": "Q007",
+      "question": "What coating or treatment is applied?",
+      "expected_field": "coating",
+      "difficulty": "medium"
+    },
+    {
+      "query_id": "Q008",
+      "question": "What certifications does this part have?",
+      "expected_field": "certifications",
+      "difficulty": "medium"
+    },
+    {
+      "query_id": "Q009",
+      "question": "Who is the manufacturer?",
+      "expected_field": "manufacturer",
+      "difficulty": "easy"
+    },
+    {
+      "query_id": "Q010",
+      "question": "What is the maximum operating pressure?",
+      "expected_field": "technical_specifications",
+      "difficulty": "hard"
+    },
+    {
+      "query_id": "Q011",
+      "question": "What is the temperature range for this component?",
+      "expected_field": "technical_specifications",
+      "difficulty": "hard"
+    },
+    {
+      "query_id": "Q012",
+      "question": "What are the assembly torque specifications?",
+      "expected_field": "technical_specifications",
+      "difficulty": "hard"
+    },
+    {
+      "query_id": "Q013",
+      "question": "What standards does this part comply with?",
+      "expected_field": "certifications",
+      "difficulty": "medium"
+    },
+    {
+      "query_id": "Q014",
+      "question": "What is the recommended maintenance schedule?",
+      "expected_field": "technical_specifications",
+      "difficulty": "hard"
+    },
+    {
+      "query_id": "Q015",
+      "question": "What are the storage requirements?",
+      "expected_field": "technical_specifications",
+      "difficulty": "medium"
+    }
+  ],
+  "evaluation_criteria": {
+    "answer_relevancy": "Does the answer directly address the question?",
+    "faithfulness": "Is the answer grounded in the document content?",
+    "completeness": "Does the answer include all relevant information?",
+    "accuracy": "Is the extracted information correct?"
+  },
+  "test_scenarios": [
+    {
+      "scenario": "Basic Information Extraction",
+      "queries": ["Q001", "Q002", "Q004", "Q009"],
+      "expected_confidence": "> 0.90"
+    },
+    {
+      "scenario": "Dimensional Analysis",
+      "queries": ["Q003", "Q005", "Q006"],
+      "expected_confidence": "> 0.85"
+    },
+    {
+      "scenario": "Technical Specifications",
+      "queries": ["Q010", "Q011", "Q012", "Q014"],
+      "expected_confidence": "> 0.80"
+    },
+    {
+      "scenario": "Compliance & Certification",
+      "queries": ["Q008", "Q013"],
+      "expected_confidence": "> 0.85"
+    }
+  ]
+}
